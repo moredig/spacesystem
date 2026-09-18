@@ -4,6 +4,4 @@ build/
 dist/
 wheels/
 *.egg-info
-.python-version
 .venv
-uv.lock
