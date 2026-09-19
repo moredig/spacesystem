@@ -1,0 +1,227 @@
+[
+    {
+    "crewmate": {
+        "crewnum": 1,
+        "name": "Betty",
+        "ontheship": true,
+        "roles": [
+            "Engineer", "Human"],
+        "location": {
+            "current": "West Wing",
+            "quarters": "Southeast Living Quarters"
+        },
+        "work ethic": 9,
+        "notes": "Does her job well. That's it."
+     }
+    },
+    {
+    "crewmate": {
+      "crewnum": 2,
+      "name": "Commander Vance",
+      "ontheship": true,
+      "roles": ["Captain", "Human"],
+      "location": {
+        "current": "Bridge",
+        "quarters": "Command Suites"
+      },
+      "work ethic": 10,
+      "notes": "Keeps tight control of the daily flight logs."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 3,
+      "name": "Xylar-4",
+      "ontheship": true,
+      "roles": ["Prisoner", "Alien"],
+      "location": {
+        "current": "Brig - Cell A",
+        "quarters": "Brig - Cell A"
+      },
+      "work ethic": 0,
+      "notes": "Requires a liquid methane atmosphere generator. Strictly dangerous."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 4,
+      "name": "Dr. Aris",
+      "ontheship": true,
+      "roles": ["Chief Medical Officer", "Human"],
+      "location": {
+        "current": "Medbay",
+        "quarters": "Northeast Living Quarters"
+      },
+      "work ethic": 8,
+      "notes": "Currently monitoring the alien prisoners for bio-contaminants."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 5,
+      "name": "Grogor",
+      "ontheship": true,
+      "roles": ["Prisoner", "Alien"],
+      "location": {
+        "current": "Brig - Cell B",
+        "quarters": "Brig - Cell B"
+      },
+      "work ethic": 2,
+      "notes": "Six-armed silicon-based lifeform. Detained for smuggling illegal fuel cells."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 6,
+      "name": "Marcus",
+      "ontheship": true,
+      "roles": ["Security Chief", "Human"],
+      "location": {
+        "current": "Brig Guard Station",
+        "quarters": "South Living Quarters"
+      },
+      "work ethic": 9,
+      "notes": "Maintains the stasis fields on the alien holding blocks."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 7,
+      "name": "Syllis",
+      "ontheship": true,
+      "roles": ["Astrophysicist", "Human"],
+      "location": {
+        "current": "Science Lab",
+        "quarters": "Northwest Living Quarters"
+      },
+      "work ethic": 7,
+      "notes": "Studying local gravity anomalies."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 8,
+      "name": "Prisoner 804",
+      "ontheship": true,
+      "roles": ["Prisoner", "Human"],
+      "location": {
+        "current": "Brig - Cell C",
+        "quarters": "Brig - Cell C"
+      },
+      "work ethic": 1,
+      "notes": "Court-martialed comms officer. Refuses to cooperate."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 9,
+      "name": "Zane",
+      "ontheship": true,
+      "roles": ["Hydroponics Tech", "Human"],
+      "location": {
+        "current": "Greenhouse Dome",
+        "quarters": "East Living Quarters"
+      },
+      "work ethic": 6,
+      "notes": "Complained about strange noises coming from the ventilation shaft."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 10,
+      "name": "The Swarm-Mind",
+      "ontheship": true,
+      "roles": ["Prisoner", "Alien"],
+      "location": {
+        "current": "Brig - Containment Tank 1",
+        "quarters": "Brig - Containment Tank 1"
+      },
+      "work ethic": 0,
+      "notes": "A gaseous insectoid entity. Communications go through the translator matrix."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 11,
+      "name": "Elena",
+      "ontheship": true,
+      "roles": ["Pilot", "Human"],
+      "location": {
+        "current": "Flight Deck",
+        "quarters": "Command Suites"
+      },
+      "work ethic": 8,
+      "notes": "Requested a route change to bypass asteroid fields."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 12,
+      "name": "Jax",
+      "ontheship": true,
+      "roles": ["Chef", "Human"],
+      "location": {
+        "current": "Mess Hall",
+        "quarters": "Southwest Living Quarters"
+      },
+      "work ethic": 5,
+      "notes": "Trying to figure out how to cook rations that satisfy both humans and aliens."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 13,
+      "name": "Kaelen",
+      "ontheship": true,
+      "roles": ["Quartermaster", "Human"],
+      "location": {
+        "current": "Cargo Bay 2",
+        "quarters": "Southeast Living Quarters"
+      },
+      "work ethic": 7,
+      "notes": "Reports that two heavy plasma rifles are missing from inventory."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 14,
+      "name": "V-17 Bio-Form",
+      "ontheship": true,
+      "roles": ["Prisoner", "Alien"],
+      "location": {
+        "current": "Brig - Isolation Ward",
+        "quarters": "Brig - Isolation Ward"
+      },
+      "work ethic": 0,
+      "notes": "Shape-shifting organism caught trying to mimic the sub-engineer."
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 15,
+      "name": "Toby",
+      "ontheship": true,
+      "roles": ["Maintenance", "Human"],
+      "location": {
+        "current": "Engine Room",
+        "quarters": "West Living Quarters"
+      },
+      "work ethic": 4,
+      "notes": null
+    }
+  },
+  {
+    "crewmate": {
+      "crewnum": 16,
+      "name": "Prisoner 911",
+      "ontheship": true,
+      "roles": ["Prisoner", "Human"],
+      "location": {
+        "current": "Brig - Cell D",
+        "quarters": "Brig - Cell D"
+      },
+      "work ethic": 3,
+      "notes": "Caught attempting a space-walk escape during the last refueling stop."
+    }
+  }
+]

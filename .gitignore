@@ -8,3 +8,4 @@ wheels/
 uv.lock
 spacedocker
 .python-version
+uv.lock
